@@ -1,2 +1,2 @@
 def greeting_function ():
-    return "My first GIT project"
+    return "This is my first github collaboration. "
