@@ -1,6 +1,10 @@
-def greet():
-    return "Hello, World!. This is Thiloni"
+from feature import greeting_function
 
-if __name__ == "__main__":
+def greet ():
+    return "Hello"
+
+if __name__=="__main__":
     print(greet())
-    
+    print(greeting_function())
+
+
